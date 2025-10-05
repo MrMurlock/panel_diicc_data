@@ -1,0 +1,388 @@
+{
+    "cursos": [
+		{
+			"id": 1.0,
+			"asignaturaId": 2.0,
+			"docenteId": 8.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:31:10.125Z",
+			"updatedAt": "2025-10-05T04:31:10.125Z"
+		},
+		{
+			"id": 2.0,
+			"asignaturaId": 3.0,
+			"docenteId": 8.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:33:16.567Z",
+			"updatedAt": "2025-10-05T04:33:16.567Z"
+		},
+		{
+			"id": 3.0,
+			"asignaturaId": 4.0,
+			"docenteId": 1.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:33:48.454Z",
+			"updatedAt": "2025-10-05T04:33:48.454Z"
+		},
+		{
+			"id": 4.0,
+			"asignaturaId": 5.0,
+			"docenteId": 2.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:33:52.526Z",
+			"updatedAt": "2025-10-05T04:33:52.526Z"
+		},
+		{
+			"id": 5.0,
+			"asignaturaId": 6.0,
+			"docenteId": 2.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:34:05.027Z",
+			"updatedAt": "2025-10-05T04:34:05.027Z"
+		},
+		{
+			"id": 6.0,
+			"asignaturaId": 8.0,
+			"docenteId": 4.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:34:55.736Z",
+			"updatedAt": "2025-10-05T04:34:55.736Z"
+		},
+		{
+			"id": 7.0,
+			"asignaturaId": 12.0,
+			"docenteId": 8.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:35:26.594Z",
+			"updatedAt": "2025-10-05T04:35:26.594Z"
+		},
+		{
+			"id": 8.0,
+			"asignaturaId": 10.0,
+			"docenteId": 10.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:35:33.330Z",
+			"updatedAt": "2025-10-05T04:35:33.330Z"
+		},
+		{
+			"id": 9.0,
+			"asignaturaId": 15.0,
+			"docenteId": 9.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:35:57.073Z",
+			"updatedAt": "2025-10-05T04:35:57.073Z"
+		},
+		{
+			"id": 10.0,
+			"asignaturaId": 16.0,
+			"docenteId": 6.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:36:07.105Z",
+			"updatedAt": "2025-10-05T04:36:07.105Z"
+		},
+		{
+			"id": 11.0,
+			"asignaturaId": 14.0,
+			"docenteId": 5.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:36:21.209Z",
+			"updatedAt": "2025-10-05T04:36:21.209Z"
+		},
+		{
+			"id": 12.0,
+			"asignaturaId": 17.0,
+			"docenteId": 7.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:36:39.752Z",
+			"updatedAt": "2025-10-05T04:36:39.752Z"
+		},
+		{
+			"id": 13.0,
+			"asignaturaId": 19.0,
+			"docenteId": 7.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:36:48.904Z",
+			"updatedAt": "2025-10-05T04:36:48.904Z"
+		},
+		{
+			"id": 14.0,
+			"asignaturaId": 20.0,
+			"docenteId": 9.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:36:57.005Z",
+			"updatedAt": "2025-10-05T04:36:57.005Z"
+		},
+		{
+			"id": 15.0,
+			"asignaturaId": 21.0,
+			"docenteId": 10.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:37:02.875Z",
+			"updatedAt": "2025-10-05T04:37:02.875Z"
+		},
+		{
+			"id": 16.0,
+			"asignaturaId": 23.0,
+			"docenteId": 3.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:37:14.768Z",
+			"updatedAt": "2025-10-05T04:37:14.768Z"
+		},
+		{
+			"id": 17.0,
+			"asignaturaId": 25.0,
+			"docenteId": 1.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:37:31.250Z",
+			"updatedAt": "2025-10-05T04:37:31.250Z"
+		},
+		{
+			"id": 18.0,
+			"asignaturaId": 26.0,
+			"docenteId": 5.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:37:37.618Z",
+			"updatedAt": "2025-10-05T04:37:37.618Z"
+		},
+		{
+			"id": 19.0,
+			"asignaturaId": 28.0,
+			"docenteId": 9.0,
+			"periodo": "2025-2",
+			"createdAt": "2025-10-05T04:37:45.368Z",
+			"updatedAt": "2025-10-05T04:37:45.368Z"
+		}
+	],
+	"horarios": [
+		{
+			"id": 1.0,
+			"cursoId": 1.0,
+			"dependenciaId": 11.0,
+			"dia": 1.0,
+			"horaInicio": "15:40",
+			"horaFin": "17:10",
+			"createdAt": "2025-10-05T04:40:48.753Z",
+			"updatedAt": "2025-10-05T04:40:48.753Z"
+		},
+		{
+			"id": 2.0,
+			"cursoId": 1.0,
+			"dependenciaId": 11.0,
+			"dia": 3.0,
+			"horaInicio": "11:20",
+			"horaFin": "12:50",
+			"createdAt": "2025-10-05T04:41:27.984Z",
+			"updatedAt": "2025-10-05T04:41:27.984Z"
+		},
+		{
+			"id": 3.0,
+			"cursoId": 1.0,
+			"dependenciaId": 11.0,
+			"dia": 4.0,
+			"horaInicio": "17:20",
+			"horaFin": "18:50",
+			"createdAt": "2025-10-05T04:42:03.249Z",
+			"updatedAt": "2025-10-05T04:42:03.249Z"
+		},
+		{
+			"id": 4.0,
+			"cursoId": 2.0,
+			"dependenciaId": 1.0,
+			"dia": 1.0,
+			"horaInicio": "08:00",
+			"horaFin": "09:30",
+			"createdAt": "2025-10-05T04:46:25.289Z",
+			"updatedAt": "2025-10-05T04:46:25.289Z"
+		},
+		{
+			"id": 5.0,
+			"cursoId": 2.0,
+			"dependenciaId": 1.0,
+			"dia": 1.0,
+			"horaInicio": "09:40",
+			"horaFin": "11:10",
+			"createdAt": "2025-10-05T04:46:36.630Z",
+			"updatedAt": "2025-10-05T04:46:36.630Z"
+		},
+		{
+			"id": 6.0,
+			"cursoId": 2.0,
+			"dependenciaId": 2.0,
+			"dia": 3.0,
+			"horaInicio": "11:20",
+			"horaFin": "12:50",
+			"createdAt": "2025-10-05T04:47:11.691Z",
+			"updatedAt": "2025-10-05T04:47:11.691Z"
+		},
+		{
+			"id": 7.0,
+			"cursoId": 3.0,
+			"dependenciaId": 2.0,
+			"dia": 2.0,
+			"horaInicio": "15:40",
+			"horaFin": "17:10",
+			"createdAt": "2025-10-05T04:47:51.223Z",
+			"updatedAt": "2025-10-05T04:47:51.223Z"
+		},
+		{
+			"id": 8.0,
+			"cursoId": 3.0,
+			"dependenciaId": 2.0,
+			"dia": 3.0,
+			"horaInicio": "11:20",
+			"horaFin": "12:50",
+			"createdAt": "2025-10-05T04:48:10.128Z",
+			"updatedAt": "2025-10-05T04:48:10.128Z"
+		},
+		{
+			"id": 9.0,
+			"cursoId": 3.0,
+			"dependenciaId": 2.0,
+			"dia": 4.0,
+			"horaInicio": "08:00",
+			"horaFin": "09:30",
+			"createdAt": "2025-10-05T04:48:24.233Z",
+			"updatedAt": "2025-10-05T04:48:24.233Z"
+		},
+		{
+			"id": 10.0,
+			"cursoId": 4.0,
+			"dependenciaId": 2.0,
+			"dia": 3.0,
+			"horaInicio": "15:40",
+			"horaFin": "17:10",
+			"createdAt": "2025-10-05T04:48:46.471Z",
+			"updatedAt": "2025-10-05T04:48:46.471Z"
+		},
+		{
+			"id": 11.0,
+			"cursoId": 4.0,
+			"dependenciaId": 2.0,
+			"dia": 4.0,
+			"horaInicio": "09:40",
+			"horaFin": "11:10",
+			"createdAt": "2025-10-05T04:48:57.170Z",
+			"updatedAt": "2025-10-05T04:48:57.170Z"
+		},
+		{
+			"id": 12.0,
+			"cursoId": 4.0,
+			"dependenciaId": 2.0,
+			"dia": 4.0,
+			"horaInicio": "15:40",
+			"horaFin": "17:10",
+			"createdAt": "2025-10-05T04:49:09.995Z",
+			"updatedAt": "2025-10-05T04:49:09.995Z"
+		},
+		{
+			"id": 13.0,
+			"cursoId": 5.0,
+			"dependenciaId": 2.0,
+			"dia": 1.0,
+			"horaInicio": "11:20",
+			"horaFin": "12:50",
+			"createdAt": "2025-10-05T04:50:00.920Z",
+			"updatedAt": "2025-10-05T04:50:00.920Z"
+		},
+		{
+			"id": 14.0,
+			"cursoId": 5.0,
+			"dependenciaId": 2.0,
+			"dia": 2.0,
+			"horaInicio": "09:40",
+			"horaFin": "11:10",
+			"createdAt": "2025-10-05T04:50:15.387Z",
+			"updatedAt": "2025-10-05T04:50:15.387Z"
+		},
+		{
+			"id": 15.0,
+			"cursoId": 5.0,
+			"dependenciaId": 2.0,
+			"dia": 2.0,
+			"horaInicio": "11:20",
+			"horaFin": "12:50",
+			"createdAt": "2025-10-05T04:50:23.569Z",
+			"updatedAt": "2025-10-05T04:50:23.569Z"
+		},
+		{
+			"id": 16.0,
+			"cursoId": 6.0,
+			"dependenciaId": 3.0,
+			"dia": 1.0,
+			"horaInicio": "08:00",
+			"horaFin": "09:30",
+			"createdAt": "2025-10-05T04:51:18.946Z",
+			"updatedAt": "2025-10-05T04:51:18.946Z"
+		},
+		{
+			"id": 17.0,
+			"cursoId": 6.0,
+			"dependenciaId": 3.0,
+			"dia": 2.0,
+			"horaInicio": "08:00",
+			"horaFin": "09:30",
+			"createdAt": "2025-10-05T04:51:27.621Z",
+			"updatedAt": "2025-10-05T04:51:27.622Z"
+		},
+		{
+			"id": 18.0,
+			"cursoId": 6.0,
+			"dependenciaId": 3.0,
+			"dia": 3.0,
+			"horaInicio": "15:40",
+			"horaFin": "17:10",
+			"createdAt": "2025-10-05T04:51:46.891Z",
+			"updatedAt": "2025-10-05T04:51:46.891Z"
+		},
+		{
+			"id": 19.0,
+			"cursoId": 7.0,
+			"dependenciaId": 1.0,
+			"dia": 4.0,
+			"horaInicio": "08:00",
+			"horaFin": "09:30",
+			"createdAt": "2025-10-05T04:52:28.174Z",
+			"updatedAt": "2025-10-05T04:52:28.174Z"
+		},
+		{
+			"id": 20.0,
+			"cursoId": 7.0,
+			"dependenciaId": 1.0,
+			"dia": 4.0,
+			"horaInicio": "09:40",
+			"horaFin": "11:10",
+			"createdAt": "2025-10-05T04:52:39.404Z",
+			"updatedAt": "2025-10-05T04:52:39.404Z"
+		},
+		{
+			"id": 21.0,
+			"cursoId": 8.0,
+			"dependenciaId": 5.0,
+			"dia": 1.0,
+			"horaInicio": "09:40",
+			"horaFin": "11:10",
+			"createdAt": "2025-10-05T04:52:55.586Z",
+			"updatedAt": "2025-10-05T04:52:55.586Z"
+		},
+		{
+			"id": 22.0,
+			"cursoId": 8.0,
+			"dependenciaId": 3.0,
+			"dia": 2.0,
+			"horaInicio": "09:40",
+			"horaFin": "11:10",
+			"createdAt": "2025-10-05T04:53:03.217Z",
+			"updatedAt": "2025-10-05T04:53:03.217Z"
+		},
+		{
+			"id": 23.0,
+			"cursoId": 8.0,
+			"dependenciaId": 3.0,
+			"dia": 3.0,
+			"horaInicio": "09:40",
+			"horaFin": "11:10",
+			"createdAt": "2025-10-05T04:53:08.647Z",
+			"updatedAt": "2025-10-05T04:53:08.647Z"
+		}
+	]
+}

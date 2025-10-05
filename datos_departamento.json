@@ -1,0 +1,605 @@
+{
+	"departamentos": [
+		{
+			"id": 1.0,
+			"nombre": "Departamento de Ingeniería Informática y Ciencias de la Computación",
+			"facultadId": 1.0,
+			"createdAt": "2025-10-05T00:42:05.425Z",
+			"updatedAt": "2025-10-05T00:42:05.425Z"
+		}
+	],
+	"edificios": [
+		{
+			"id": 1.0,
+			"nombre": "Departamento de Ingeniería Informática y Ciencias de la Computación",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T00:42:18.510Z",
+			"updatedAt": "2025-10-05T00:42:18.510Z"
+		}
+	],
+	"dependencias": [
+		{
+			"id": 1.0,
+			"nombre": "Lab Olimpo",
+			"tipo": "Laboratorio",
+			"imagen": "Olimpo.jpg",
+			"capacidad": 10.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:28:21.407Z",
+			"updatedAt": "2025-10-05T01:28:21.407Z"
+		},
+		{
+			"id": 2.0,
+			"nombre": "Lab Melquíades",
+			"tipo": "Laboratorio",
+			"imagen": "Melquiades.jpg",
+			"capacidad": 10.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:28:42.846Z",
+			"updatedAt": "2025-10-05T01:28:42.846Z"
+		},
+		{
+			"id": 3.0,
+			"nombre": "Aula DIICC 1",
+			"tipo": "Aula",
+			"imagen": "DIICC1.jpg",
+			"capacidad": 20.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:28:54.242Z",
+			"updatedAt": "2025-10-05T01:28:54.242Z"
+		},
+		{
+			"id": 4.0,
+			"nombre": "Lab Multimedia DIICC 2",
+			"tipo": "Laboratorio",
+			"imagen": "DIICC2.jpg",
+			"capacidad": 10.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:29:04.361Z",
+			"updatedAt": "2025-10-05T01:29:04.361Z"
+		},
+		{
+			"id": 5.0,
+			"nombre": "Aula DIICC 3",
+			"tipo": "Aula",
+			"imagen": "DIICC3.jpg",
+			"capacidad": 20.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:29:09.774Z",
+			"updatedAt": "2025-10-05T01:29:09.774Z"
+		},
+		{
+			"id": 6.0,
+			"nombre": "Sala de estudio",
+			"tipo": "Otro",
+			"imagen": "SalaEstudio.jpg",
+			"capacidad": 10.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:29:19.911Z",
+			"updatedAt": "2025-10-05T01:29:19.911Z"
+		},
+		{
+			"id": 7.0,
+			"nombre": "Lab Conectividad y Redes",
+			"tipo": "Laboratorio",
+			"imagen": "Conectividad.jpg",
+			"capacidad": 10.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:29:49.861Z",
+			"updatedAt": "2025-10-05T01:29:49.861Z"
+		},
+		{
+			"id": 8.0,
+			"nombre": "Lab Robótica",
+			"tipo": "Laboratorio",
+			"imagen": "Robotica.jpg",
+			"capacidad": 10.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:29:55.482Z",
+			"updatedAt": "2025-10-05T01:29:55.482Z"
+		},
+		{
+			"id": 9.0,
+			"nombre": "Oficina Ing en sistemas",
+			"tipo": "Oficina",
+			"capacidad": 0.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:31:09.429Z",
+			"updatedAt": "2025-10-05T01:31:09.429Z"
+		},
+		{
+			"id": 10.0,
+			"nombre": "Oficina Centro de estudiantes",
+			"tipo": "Oficina",
+			"capacidad": 0.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:31:18.078Z",
+			"updatedAt": "2025-10-05T01:31:18.078Z"
+		},
+		{
+			"id": 11.0,
+			"nombre": "Quincho",
+			"tipo": "Otro",
+			"imagen": "quincho.jpeg",
+			"capacidad": 25.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:31:28.606Z",
+			"updatedAt": "2025-10-05T01:31:28.606Z"
+		},
+		{
+			"id": 12.0,
+			"nombre": "Lab de IA",
+			"tipo": "Laboratorio",
+			"capacidad": 10.0,
+			"edificioId": 1.0,
+			"createdAt": "2025-10-05T01:32:33.824Z",
+			"updatedAt": "2025-10-05T01:32:33.824Z"
+		}
+	],
+	"academicos": [
+		{
+			"id": 1.0,
+			"nombre": "Servando Campillay Briones",
+			"email": "servando.campillay@uda.cl",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T04:11:56.933Z",
+			"updatedAt": "2025-10-05T04:11:56.933Z"
+		},
+		{
+			"id": 2.0,
+			"nombre": "Andrés Alfaro Ávalos",
+			"email": "andres.alfaro@uda.cl",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T04:12:22.467Z",
+			"updatedAt": "2025-10-05T04:12:22.467Z"
+		},
+		{
+			"id": 3.0,
+			"nombre": "Vladimir Riffo Bouffanais",
+			"email": "vladimir.riffo@uda.cl",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T04:12:44.949Z",
+			"updatedAt": "2025-10-05T04:12:44.949Z"
+		},
+		{
+			"id": 4.0,
+			"nombre": "Manuel Monasterio Cortés",
+			"email": "manuel.monasterio@uda.cl",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T04:13:05.187Z",
+			"updatedAt": "2025-10-05T04:13:05.187Z"
+		},
+		{
+			"id": 5.0,
+			"nombre": "Héctor Cornide Reyes",
+			"email": "hector.cornide@uda.cl",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T04:13:27.633Z",
+			"updatedAt": "2025-10-05T04:13:27.633Z"
+		},
+		{
+			"id": 6.0,
+			"nombre": "Nahur Melendéz Araya",
+			"email": "nahur.melendez@uda.cl",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T04:13:45.377Z",
+			"updatedAt": "2025-10-05T04:13:45.377Z"
+		},
+		{
+			"id": 7.0,
+			"nombre": "John Castro Llanos",
+			"email": "john.castro@uda.cl",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T04:14:07.631Z",
+			"updatedAt": "2025-10-05T04:14:07.631Z"
+		},
+		{
+			"id": 8.0,
+			"nombre": "Jacqueline Manriquez Barria",
+			"email": "jacqueline.manriquezb@uda.cl",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T04:14:21.264Z",
+			"updatedAt": "2025-10-05T04:14:21.264Z"
+		},
+		{
+			"id": 9.0,
+			"nombre": "Sebastián Flores Flores",
+			"email": "sebastian.flores@uda.cl",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T04:14:32.738Z",
+			"updatedAt": "2025-10-05T04:14:32.738Z"
+		},
+		{
+			"id": 10.0,
+			"nombre": "Guillermo Machuca Beltrán",
+			"email": "guillermo.machuca@uda.cl",
+			"departamentoId": 1.0,
+			"createdAt": "2025-10-05T04:14:45.698Z",
+			"updatedAt": "2025-10-05T04:14:45.698Z"
+		}
+	],
+	"carreras": [
+		{
+			"id": 1.0,
+			"nombre": "Ingeniería Civíl en Informática y Computación",
+			"plan": "2025",
+			"grado": "pregrado",
+			"createdAt": "2025-10-05T04:19:35.390Z",
+			"updatedAt": "2025-10-05T04:19:35.390Z"
+		}
+	],
+	"asignaturas": [
+		{
+			"id": 1.0,
+			"codigo": "COM251104",
+			"nombre": "Introducción a la especialidad",
+			"tipo": "Teorico",
+			"creditos": 7.0,
+			"nivel": 101.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:19:35.390Z",
+			"updatedAt": "2025-10-05T04:19:35.390Z"
+		},
+		{
+			"id": 2.0,
+			"codigo": "COM251105",
+			"nombre": "Introducción a la programación",
+			"tipo": "Teorico",
+			"creditos": 4.0,
+			"nivel": 101.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:19:56.509Z",
+			"updatedAt": "2025-10-05T04:19:56.509Z"
+		},
+		{
+			"id": 3.0,
+			"codigo": "COM251204",
+			"nombre": "Programación",
+			"tipo": "Teorico",
+			"creditos": 6.0,
+			"nivel": 102.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:20:30.816Z",
+			"updatedAt": "2025-10-05T04:20:30.816Z"
+		},
+		{
+			"id": 4.0,
+			"codigo": "COM252104",
+			"nombre": "Estructura de datos",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 201.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:21:01.564Z",
+			"updatedAt": "2025-10-05T04:21:01.564Z"
+		},
+		{
+			"id": 5.0,
+			"codigo": "COM252105",
+			"nombre": "Programación avanzada",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 201.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:21:15.650Z",
+			"updatedAt": "2025-10-05T04:21:15.650Z"
+		},
+		{
+			"id": 6.0,
+			"codigo": "COM252201",
+			"nombre": "Taller de programación web",
+			"tipo": "Teorico",
+			"creditos": 7.0,
+			"nivel": 202.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:21:34.223Z",
+			"updatedAt": "2025-10-05T04:21:34.223Z"
+		},
+		{
+			"id": 7.0,
+			"codigo": "COM253101",
+			"nombre": "Bases de datos",
+			"tipo": "Teorico",
+			"creditos": 7.0,
+			"nivel": 301.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:22:12.365Z",
+			"updatedAt": "2025-10-05T04:22:12.365Z"
+		},
+		{
+			"id": 8.0,
+			"codigo": "COM253104",
+			"nombre": "Sistemas de información",
+			"tipo": "Teorico",
+			"creditos": 6.0,
+			"nivel": 301.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:22:34.392Z",
+			"updatedAt": "2025-10-05T04:22:34.392Z"
+		},
+		{
+			"id": 9.0,
+			"codigo": "COM253202",
+			"nombre": "Tópico de bases de datos",
+			"tipo": "Teorico",
+			"creditos": 6.0,
+			"nivel": 302.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:22:58.116Z",
+			"updatedAt": "2025-10-05T04:22:58.116Z"
+		},
+		{
+			"id": 10.0,
+			"codigo": "COM253203",
+			"nombre": "Sistemas digitales",
+			"tipo": "Teorico",
+			"creditos": 6.0,
+			"nivel": 302.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:23:10.398Z",
+			"updatedAt": "2025-10-05T04:23:10.398Z"
+		},
+		{
+			"id": 11.0,
+			"codigo": "COM253204",
+			"nombre": "Taller de negocio tecnológico",
+			"tipo": "Teorico",
+			"creditos": 4.0,
+			"nivel": 302.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:23:26.545Z",
+			"updatedAt": "2025-10-05T04:23:26.545Z"
+		},
+		{
+			"id": 12.0,
+			"codigo": "COM253205",
+			"nombre": "Taller sistema web",
+			"tipo": "Teorico",
+			"creditos": 6.0,
+			"nivel": 302.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:23:48.578Z",
+			"updatedAt": "2025-10-05T04:23:48.578Z"
+		},
+		{
+			"id": 13.0,
+			"codigo": "COM254101",
+			"nombre": "Introducción al análisis de datos",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 401.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:24:25.286Z",
+			"updatedAt": "2025-10-05T04:24:25.286Z"
+		},
+		{
+			"id": 14.0,
+			"codigo": "COM254102",
+			"nombre": "ingeniería de software",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 401.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:24:42.607Z",
+			"updatedAt": "2025-10-05T04:24:42.607Z"
+		},
+		{
+			"id": 15.0,
+			"codigo": "COM254103",
+			"nombre": "Redes de comunicación",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 401.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:24:52.541Z",
+			"updatedAt": "2025-10-05T04:24:52.541Z"
+		},
+		{
+			"id": 16.0,
+			"codigo": "COM254105",
+			"nombre": "Automática y robótica",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 401.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:25:05.446Z",
+			"updatedAt": "2025-10-05T04:25:05.446Z"
+		},
+		{
+			"id": 17.0,
+			"codigo": "COM254106",
+			"nombre": "Modelamiento de sistemas",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 401.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:25:21.240Z",
+			"updatedAt": "2025-10-05T04:25:21.240Z"
+		},
+		{
+			"id": 18.0,
+			"codigo": "COM254201",
+			"nombre": "Optimización y programación matemática",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 402.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:25:48.759Z",
+			"updatedAt": "2025-10-05T04:25:48.759Z"
+		},
+		{
+			"id": 19.0,
+			"codigo": "COM254202",
+			"nombre": "Gestión de proyectos de software",
+			"tipo": "Teorico",
+			"creditos": 7.0,
+			"nivel": 402.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:26:04.532Z",
+			"updatedAt": "2025-10-05T04:26:04.532Z"
+		},
+		{
+			"id": 20.0,
+			"codigo": "COM254203",
+			"nombre": "Taller de conectividad",
+			"tipo": "Teorico",
+			"creditos": 6.0,
+			"nivel": 402.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:26:18.599Z",
+			"updatedAt": "2025-10-05T04:26:18.599Z"
+		},
+		{
+			"id": 21.0,
+			"codigo": "COM254204",
+			"nombre": "Investigación aplicada",
+			"tipo": "Teorico",
+			"creditos": 4.0,
+			"nivel": 402.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:26:35.481Z",
+			"updatedAt": "2025-10-05T04:26:35.481Z"
+		},
+		{
+			"id": 22.0,
+			"codigo": "COM254205",
+			"nombre": "Inteligencia de negocios",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 402.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:26:49.128Z",
+			"updatedAt": "2025-10-05T04:26:49.128Z"
+		},
+		{
+			"id": 23.0,
+			"codigo": "COM255101",
+			"nombre": "Aprendizaje de máquinas",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 501.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:27:28.703Z",
+			"updatedAt": "2025-10-05T04:27:28.703Z"
+		},
+		{
+			"id": 24.0,
+			"codigo": "COM255102",
+			"nombre": "Proyecto de software",
+			"tipo": "Teorico",
+			"creditos": 5.0,
+			"nivel": 501.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:27:41.780Z",
+			"updatedAt": "2025-10-05T04:27:41.780Z"
+		},
+		{
+			"id": 25.0,
+			"codigo": "COM255103",
+			"nombre": "Ciencia de datos",
+			"tipo": "Teorico",
+			"creditos": 4.0,
+			"nivel": 501.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:27:50.848Z",
+			"updatedAt": "2025-10-05T04:27:50.848Z"
+		},
+		{
+			"id": 26.0,
+			"codigo": "COM255104",
+			"nombre": "Seminario de titulación",
+			"tipo": "Teorico",
+			"creditos": 8.0,
+			"nivel": 501.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:28:04.320Z",
+			"updatedAt": "2025-10-05T04:28:04.320Z"
+		},
+		{
+			"id": 27.0,
+			"codigo": "COM255105",
+			"nombre": "Tópicos emergentes de ingeniería de software",
+			"tipo": "Teorico",
+			"creditos": 4.0,
+			"nivel": 501.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:28:25.712Z",
+			"updatedAt": "2025-10-05T04:28:25.712Z"
+		},
+		{
+			"id": 28.0,
+			"codigo": "COM255106",
+			"nombre": "Ciberceguridad",
+			"tipo": "Teorico",
+			"creditos": 4.0,
+			"nivel": 501.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:28:37.686Z",
+			"updatedAt": "2025-10-05T04:28:37.686Z"
+		},
+		{
+			"id": 29.0,
+			"codigo": "COM255201",
+			"nombre": "Trabajo de titulación",
+			"tipo": "Teorico",
+			"creditos": 19.0,
+			"nivel": 502.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:28:57.948Z",
+			"updatedAt": "2025-10-05T04:28:57.948Z"
+		},
+		{
+			"id": 30.0,
+			"codigo": "COM255202",
+			"nombre": "Formación profesional I",
+			"tipo": "Teorico",
+			"creditos": 4.0,
+			"nivel": 502.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:29:12.192Z",
+			"updatedAt": "2025-10-05T04:29:12.192Z"
+		},
+		{
+			"id": 31.0,
+			"codigo": "COM255203",
+			"nombre": "Formación profesional II",
+			"tipo": "Teorico",
+			"creditos": 4.0,
+			"nivel": 502.0,
+			"duracion": "Semestral",
+			"carreraId": 1.0,
+			"createdAt": "2025-10-05T04:29:18.477Z",
+			"updatedAt": "2025-10-05T04:29:18.477Z"
+		}
+	]
+}
